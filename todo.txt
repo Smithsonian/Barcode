@@ -1,0 +1,11 @@
+TODO:
+- Documentation
+	- user guide (help menu)
+	- within code
+- Licensing (Name the uses libraries!)
+- Clean up of code
+- Create daily and weekly reports (.txt/.rtf/.html)
+
+Future plans:
+- CheckIn and CheckOut in different locations
+- Collection Assessment

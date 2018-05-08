@@ -1,0 +1,28 @@
+.menu-bar:focused {
+    -fx-focus-color: transparent;
+}
+
+.menu-bar{
+    -fx-padding: 0;
+}
+
+.menu {
+    -fx-padding: 10 20;
+}
+
+.menu:showing .label, .menu:hover label, .menu:focused .label{
+    -fx-text-fill: black;
+}
+
+.menu-item{
+    -fx-padding: 10;
+}
+
+.context-menu {
+    -fx-skin: "com.sun.javafx.scene.control.skin.ContextMenuSkin";
+/*    -fx-background-color: black; */
+    -fx-background-insets: 0, 1, 2;
+/*    -fx-background-radius: 0 6 6 6, 0 5 5 5, 0 4 4 4; */
+/*    -fx-padding: 0.666667em 0.083333em 0.666667em 0.083333em;  8 1 8 1 */
+    -fx-padding: 0; /* 4 1 8 1 */
+}

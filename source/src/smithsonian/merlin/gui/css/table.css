@@ -1,0 +1,20 @@
+.table-view, .table-view:focused{
+   -fx-background-color: transparent;
+}
+
+.list-view, .list-view:focused{
+   -fx-background-color: transparent;
+}
+
+.list-cell{
+  -fx-font-size: 13pt;
+}
+
+.table-cell{
+  -fx-font-size: 13pt;
+}
+
+.list-cell:focused{
+  -fx-background-color: black;
+  -fx-text-fill: white;
+}

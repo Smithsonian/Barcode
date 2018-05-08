@@ -1,0 +1,29 @@
+# This file contains all facilities of the Smithsonian Institution.
+# Please always keep this file updated.
+# Lines that start with a # get ignored by the compiler.
+
+# Museums
+ACM
+CHSDM
+FSG
+HMSG
+NASM
+NMAAHC
+NMAfA
+NMAH
+NMNH
+NMAI
+NPG
+NPM
+NZP
+SAAM
+SIB
+
+# Research Centers
+AAA
+MCI
+SAO
+SERC
+SIA
+SIL
+STRI

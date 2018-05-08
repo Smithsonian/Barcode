@@ -1,0 +1,12 @@
+.popup *{
+    -fx-fill: white;
+    -fx-text-fill: white;
+}
+
+.popup {
+    -fx-padding: 15;
+    -fx-border: 4;
+    -fx-border-color: black;
+    -fx-font-size: 25;
+    -fx-font-weight: bold;
+}

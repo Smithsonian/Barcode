@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+    <location>
+        <name>###MUSEUM###</name>
+        <level>0</level>
+    </location>
+    <location>
+        <name>###BUILDING###</name>
+        <level>1</level>
+    </location>
+    <location>
+        <name>###ROOM###</name>
+        <level>2</level>
+    </location>
+    <location>
+        <name>###CAB_ROW###</name>
+        <level>3</level>
+    </location>
+    <location>
+        <name>###CABINET###</name>
+        <level>4</level>
+    </location>
+    <location>
+        <name>###SHELF###</name>
+        <level>5</level>
+    </location>
+</locations>

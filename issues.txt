@@ -1,0 +1,5 @@
+INFORMATION:
+Always put the res folder into the same folder as the Merlin.jar. Resources get saved into it and loaded from it.
+
+HOTFIX:
+If program doesn't save .xml files (layouts and reports), try moving it to a location without spaces in the path.
